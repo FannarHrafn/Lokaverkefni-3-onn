@@ -2,7 +2,7 @@
 <html>
 <head>
 	<link rel="stylesheet"  href="/static/stylesheet.css">
-	<title>verkefni 10</title>
+	<title>index</title>
 </head>
 <body>
 <form  action="/newuser" method="post" accept-charset="ISO-8859-1">
